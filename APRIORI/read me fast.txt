@@ -1,0 +1,6 @@
+there are some problems with this code.
+ok upto frequency determination.
+
+if you buy product A, B will be refered to you
+based on: 
+No(A intersection B)/frequency of A
